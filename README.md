@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [1018-largest-perimeter-triangle](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
