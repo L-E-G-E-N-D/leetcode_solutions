@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0704-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/L-E-G-E-N-D/leetcode_solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
